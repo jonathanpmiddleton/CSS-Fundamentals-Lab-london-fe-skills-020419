@@ -3,3 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+img {align-items: center;}
+h1 {text-align: center;}
+a {padding-right: 10px; padding-left: 10px;}
+figcaption {text-align: centre; text-size: decrease;}
