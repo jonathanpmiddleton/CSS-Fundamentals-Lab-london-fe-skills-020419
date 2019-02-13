@@ -10,4 +10,4 @@ img figcaption {align-text: center; text-size: ;}
 #featured-property p {width: 800px; text-align: center}
 #details {display: block} 
 div {float: left}
-div {text-align: center; background-color: red;}
+div {text-align: center; background-color: red; width = 25%;}
