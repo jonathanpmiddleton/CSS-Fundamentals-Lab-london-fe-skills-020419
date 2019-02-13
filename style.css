@@ -8,4 +8,5 @@ h1 {text-align: center;}
 a {padding-right: 10px; padding-left: 10px;}
 #figcaption {align-text: center; text-size: decrease;}
 #featured-property p {width: 800px; text-align: center}
-#details div {display: block} 
+#details {display: block} 
+div {float: left}
