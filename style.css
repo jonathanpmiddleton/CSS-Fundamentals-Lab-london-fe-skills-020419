@@ -1,1 +1,15 @@
+body {
+  
+}
+h {
+  align-content: center;
+}
+img {
+  align-items: center;
+}
+nav a {
+  padding-left: 10px; padding-right: 10px; background-color: gray
+}
 
+figcaption {align-content: center}
+#featured-properties p {
