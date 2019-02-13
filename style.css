@@ -19,7 +19,7 @@ nav a {
   text-align: center;
 }
 
-.figcaption {
+img figcaption {
   text-align: center; 
   font-size:12px;
 }
@@ -32,7 +32,7 @@ p {
 .details {align-content: stretch}
 div {
   display: block
-  float: right;
+  float: left;
   text-align: center; 
   background-color: red;
 }
