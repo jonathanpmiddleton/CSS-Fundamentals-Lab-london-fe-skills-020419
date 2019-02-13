@@ -22,13 +22,16 @@ figcaption {
 }
 
 #featured-property p {
-  width: 800px; text-align: center
+  width: 800px; text-align: center;
 }
 
 #details div {
-  display: block
+  display: block;
 }
 
 #details div {
-  float: left
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
