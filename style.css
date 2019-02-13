@@ -27,7 +27,8 @@ p {
   text-align: center
 }
 
-#details div {
+#details {align-content: flex}
+div {
   display: block
   float: left;
   text-align: center; 
