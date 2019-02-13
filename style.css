@@ -32,12 +32,8 @@ p {
 } 
 
 div {
-  float: left
-}
-
-div {
+  float: left;
   text-align: center; 
   background-color: red; 
   width:100;
-  
 }
