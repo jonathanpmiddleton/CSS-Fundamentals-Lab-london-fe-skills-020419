@@ -28,7 +28,7 @@ p {
 }
 
 .details {align-content: stretch}
-*div {
+div {
   display: block
   float: right;
   text-align: center; 
