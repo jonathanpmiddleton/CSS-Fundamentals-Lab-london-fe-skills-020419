@@ -30,7 +30,8 @@ p {
 }
 
 #details {align-content: stretch}
-div {
+
+#details div {
   display: block
   float: left;
   text-align: center; 
