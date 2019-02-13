@@ -16,10 +16,10 @@ nav a {
   padding-left: 10px; 
   padding-right: 10px; 
   background-color: gray; 
-  margin: 0 auto;
+  text-align: center;
 }
 
-figcaption {
+nag, figcaption {
   margin: 0 auto; 
   font-size:12px;
 }
