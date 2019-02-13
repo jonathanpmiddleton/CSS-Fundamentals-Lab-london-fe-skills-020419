@@ -6,5 +6,6 @@ body {
 img {align-items: center;}
 h1 {text-align: center;}
 a {padding-right: 10px; padding-left: 10px;}
-figcaption {text-align: centre; text-size: decrease;}
-featured-property p {width: 800px; text-align: center}
+figcaption {text-align: center; text-size: decrease;}
+#featured-property p {width: 800px; text-align: center}
+#details div {
