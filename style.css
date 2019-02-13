@@ -29,7 +29,7 @@ p {
   text-align: center
 }
 
-.details {align-content: stretch}
+#details {align-content: stretch}
 div {
   display: block
   float: left;
