@@ -29,7 +29,10 @@ p {
   text-align: center
 }
 
-#featured-property
+#featured-properties {
+  align-items: center;
+}
+
 #details {align-content: stretch}
 
 #details div {
