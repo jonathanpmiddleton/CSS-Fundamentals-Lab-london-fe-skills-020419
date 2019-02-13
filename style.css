@@ -27,11 +27,8 @@ p {
   text-align: center
 }
 
-#details {
+#details div {
   display: block
-} 
-
-div {
   float: left;
   text-align: center; 
   background-color: red; 
