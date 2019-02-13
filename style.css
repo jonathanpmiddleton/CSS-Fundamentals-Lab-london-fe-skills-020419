@@ -30,7 +30,7 @@ p {
 #details {align-content: horizontal}
 div {
   display: block
-  float: left;
+  float: right;
   text-align: center; 
   background-color: red; 
   width:100;
